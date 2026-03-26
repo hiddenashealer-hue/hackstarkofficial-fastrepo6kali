@@ -1,1 +1,3 @@
-
+# it is the fastest repo for kali linux by healer
+deb https://mirrors.ocf.berkely.edu/kali kali-rolling main non-free contrib
+deb-src https://mirrors.ocf.berkely.edu/kali kali-rolling main non-free contrib
